@@ -1,0 +1,8 @@
+﻿<StackPanel
+    x:Class="MyRSSReaderv2.AddFeedDialogContent"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <TextBlock Text="Feed URL" />
+    <TextBox x:Name="textBox" Margin="0,12,0,0" />
+</StackPanel>
